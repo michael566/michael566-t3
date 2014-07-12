@@ -1,0 +1,7 @@
+name: Random
+version: 1.0
+main: com.tenjava.entries.michael566.t3.TenJava
+commands:
+  random:
+   description: Does something random!
+   usage:
